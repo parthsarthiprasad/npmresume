@@ -1,5 +1,8 @@
 {
   "name": "parthsarthiprasad",
+  "bin":{
+    "parthsarthiprasad": "./index.js"
+  },
   "version": "1.0.0",
   "description": "\"simple npm resume package\"",
   "main": "index.js",
