@@ -1,0 +1,26 @@
+{
+  "name": "parthsarthiprasad",
+  "version": "1.0.0",
+  "description": "\"simple npm resume package\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthsarthiprasad/npmresume.git"
+  },
+  "keywords": [
+    "npmresume"
+  ],
+  "author": "parthsarthiprasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthsarthiprasad/npmresume/issues"
+  },
+  "homepage": "https://github.com/parthsarthiprasad/npmresume#readme",
+  "dependencies": {
+    "chalk.js": "0.0.5",
+    "inquirer": "^7.0.0"
+  }
+}
